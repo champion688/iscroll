@@ -647,4 +647,5 @@ IScroll.prototype = {
 		}
 
 		return { x: x, y: y };
-	},
+	},  
+	console.log("this ins te")
