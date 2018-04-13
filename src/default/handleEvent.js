@@ -5,7 +5,7 @@
 			case 'pointerdown':
 			case 'MSPointerDown':
 			case 'mousedown':
-				this._start(e);
+				this._start(e); kkooo  
 				break;
 			case 'touchmove':
 			case 'pointermove':
